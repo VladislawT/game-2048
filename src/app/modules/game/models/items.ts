@@ -3,5 +3,6 @@ export interface Item {
     row: number;
     col: number;
     isOnDelete?: boolean;
+  //user: string;
   }
   
