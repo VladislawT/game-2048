@@ -3,6 +3,7 @@
   background-color: #bbada0;
   padding: 10px;
   position: relative;
+  border-radius: 10px;
 }
 
 .grid-row {
@@ -18,7 +19,7 @@
   width: 100px;
   height: 100px;
   margin-right: 10px;
-  background-color: rgba(238, 228, 218, 0.35);
+  background-color: rgba(238, 228, 218, 0.85);
 }
 
 .grid-cell:last-of-type {
